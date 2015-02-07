@@ -1,0 +1,14 @@
+<script src='../threex.loop.js'></script>
+<h1>open your js console</h1>
+<script>
+	// var loop	= new THREEx.RenderingLoop()
+	var loop	= new THREEx.PhysicsLoop(2)
+	loop.add(function(delta){
+		console.log('function1')
+	})
+	loop.add(function(delta){
+		console.log('function2')
+	})
+	
+	loop.start()
+</script>
