@@ -12,7 +12,7 @@ Show Don't Tell
 ===============
 * [examples/basic.html](http://jeromeetienne.github.io/threex.loop/examples/basic.html)
 \[[view source](https://github.com/jeromeetienne/threex.loop/blob/master/examples/basic.html)\] :
-It shows this feature, and that one which is coded like that.
+It shows this feature, and that one which is coded like that. 
 
 A Screenshot
 ============
